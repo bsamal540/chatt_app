@@ -18,6 +18,10 @@ This is a real-time chat application built with Flutter and Firebase, featuring 
 - **Firebase Storage**: For storing and retrieving media files.
 - **Google Sign-In**: A secure way to authenticate users using their Google accounts.
 
+## Video Link
+https://drive.google.com/file/d/1p9YAdbKRku87FX4IsASvnqrqpoziRsEd/view?usp=drive_link
+
+
 ## Getting Started
 
 ### Prerequisites
@@ -30,4 +34,4 @@ This is a real-time chat application built with Flutter and Firebase, featuring 
 
 1. **Clone the repository**:
    ```bash
-   git clone # chatt_app
+   git clone https://github.com/bsamal540/chatt_app.git
